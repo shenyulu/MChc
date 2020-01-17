@@ -17,3 +17,7 @@
 
 # data100s.mat
 M（掷点数）为100时，所求的数据集
+
+
+
+![求解范例](https://mmbiz.qpic.cn/mmbiz_png/rQQMmyY7EQvTQvWSKsc2stUuib8Mbc36bxUaMiccSPy6Xjb00z3Oic9vakWVDsHVWGKrwEYUnIECpIgO7w1YiaHIXg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
